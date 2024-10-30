@@ -1,0 +1,58 @@
+form{
+    border: solid 1px rgb(0, 0, 0);
+    width: 450px;
+    padding-left: 10px;
+    margin-left: 100px;
+    padding-top: 30px;
+}
+body{
+    background-image: url(burger8.jpg);
+    background-repeat: no-repeat;
+    background-size: 1380px 680px;
+}
+label{
+    color: rgb(226, 175, 200);
+    font-size: 25px;
+    font-weight: bold;
+}
+h1{
+    color: rgb(167, 187, 241);
+    font-size: 40px;
+    text-align: center;
+}
+input{
+    height: 30px;
+    width: 300px;
+    background: none;
+    outline: none;
+    border: none;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(230, 193, 126);
+    border-bottom-width: 2px;
+    color: rgb(216, 216, 115);
+    font-size: 20px;
+}
+textarea{
+    width: 300px;
+    height: 90px;
+    background: none;
+    border-color: rgb(230, 193, 126);
+    border-width: 2px;
+    color: rgb(216, 216, 115);
+    font-size: 20px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color: rgb(165, 0, 41);
+    color: whitesmoke;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 20px;
+}
+#avatar{
+    border-radius: 50%;
+    position: relative;
+    left: 285px;
+    top: 50px;
+}
